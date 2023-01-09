@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### Hey devs  I'm Suraj Yadav - @Surajy001 😎
+## - I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
+- Currently learning Full Stack Web Development from Masai School (Bengaluru)
 <!--
 **Surajy001/Surajy001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
