@@ -8,7 +8,7 @@
 
 ### Languages and Tools:
 
-<div style="display:flex; width:50px ; " >
+<div display="flex" width="50px"  >
 <image src="https://as2.ftcdn.net/v2/jpg/02/23/73/03/1000_F_223730334_0l31O1JBvtyw2B8Zkeu95LEqX0Y3PxjG.jpg" alt="html"   />
 
 <image src="https://as2.ftcdn.net/v2/jpg/00/75/92/23/1000_F_75922336_Jz2QgNOx7dnRea9ZI6yQTDtn1vHq5ejF.jpg"
