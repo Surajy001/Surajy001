@@ -8,7 +8,7 @@
 
 ### Languages and Tools:
 
-<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="50px" height="50px"  />
+<image src="https://as2.ftcdn.net/v2/jpg/00/75/92/23/1000_F_75922336_Jz2QgNOx7dnRea9ZI6yQTDtn1vHq5ejF.jpg" width="50px" height="50px"  />
 
 <image src="https://github-readme-streak-stats.herokuapp.com?user=Surajy001&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
 <!--
