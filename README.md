@@ -1,12 +1,14 @@
 ### Hi there 👋
 ### Hey devs  I'm Suraj Yadav - @Surajy001 😎
-<hr>
+
+
 - I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
 - Currently learning Full Stack Web Development from Masai School (Bengaluru)
-<hr>
+
+
 ### Languages and Tools:
 
-<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"  />
+<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="100px" height="50px"  />
 <!--
 **Surajy001/Surajy001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
