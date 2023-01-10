@@ -28,6 +28,6 @@
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
-<a href="https://linkedin.com/in/surajyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajyadav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suraj-yadav-003626236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-yadav-003626236" height="30" width="40" /></a>
 <a href="https://instagram.com/surajyadav5389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surajyadav5389" height="30" width="40" /></a>
 </p>
