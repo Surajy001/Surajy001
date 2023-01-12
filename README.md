@@ -18,11 +18,11 @@
 <br /><br />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajy001" alt="surajy001" /></a> </p> <br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=surajy001&show_icons=true&locale=en" alt="surajy001" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Surajy001&show_icons=true&locale=en" alt="surajy001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajy001&" alt="surajy001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Surajy001&" alt="surajy001" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajy001&show_icons=true&locale=en&layout=compact" alt="surajy001" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Surajy001&show_icons=true&locale=en&layout=compact" alt="surajy001" /></p>
 
 <br />
 
