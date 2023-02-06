@@ -1,3 +1,5 @@
+<img src="https://camo.githubusercontent.com/7b0d7056cf528da8971844af6dab6d746144ac7ef9b77af605ab7e3d3bc8a458/68747470733a2f2f6c6f6769636d6f6a6f2e636f6d2f6173736574732f646973742f6e65775f70616765732f696d616765732f6a732d6769662e676966" alt="top-image" width="100%" align="center" />
+<br />
 <h1 align="center">Hi 👋, I'm Suraj Yadav</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="surajy001" width="400" align="right" /> <br />
@@ -31,3 +33,4 @@
 <a href="https://linkedin.com/in/suraj-yadav-003626236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-yadav-003626236" height="30" width="40" /></a>
 <a href="https://instagram.com/surajyadav5389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surajyadav5389" height="30" width="40" /></a>
 </p>
+
